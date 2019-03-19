@@ -1,0 +1,4 @@
+#Tue Mar 19 09:47:54 CST 2019
+base.0=D\:\\data\\flutter\\ddyf_app\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

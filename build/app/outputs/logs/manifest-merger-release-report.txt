@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-23:12
+MERGED from [:flutter_webview_plugin] D:\data\flutter\ddyf_app\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:multi_image_picker] D:\data\flutter\ddyf_app\build\multi_image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:17:1-33:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\adadc95cfc29119c0cca61f35a27b937\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\75b0caf8c4c805990758b423c4c37b7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\128209398226ad433320862ea6fc1969\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3f02ea62b69afc6184219ea109fe7483\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49738d795d39cafd3817cbfe3696cae5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\60ebd1d1aaf6134ebab6b5676ca44ed3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6e444800afac413b898b78f003b91d2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\19f501153ff77cb62ea9355c69cc5937\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72602791169fb1dbc12d84c5ae331393\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\86a56071b5bba717de70609213b0b162\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ea8d7fa134eef1e4ac87aad4d3cc4d71\AndroidManifest.xml:17:1-22:12
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\98bb628d9c9a6329c84e6241026318ae\AndroidManifest.xml:1:106-7:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f0c169667a85d6f7e4a2d385dee62f6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\456c925abe300bab5022d5ef98fe7272\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\797d31f92996c8c91709bea90391c25d\AndroidManifest.xml:17:1-22:12
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\cbb97a58f7b8ad79f5d3043cf3d88019\AndroidManifest.xml:1:116-8:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c80e0d5b1da11338aa7e511bc35fbdf0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:2:5-34
+		INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:5-21:19
+MERGED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:5-21:19
+MERGED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:27:5-31:19
+MERGED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:27:5-31:19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\98bb628d9c9a6329c84e6241026318ae\AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\98bb628d9c9a6329c84e6241026318ae\AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\cbb97a58f7b8ad79f5d3043cf3d88019\AndroidManifest.xml:5:5-6:19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\cbb97a58f7b8ad79f5d3043cf3d88019\AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:17:9-33
+	android:icon
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:16:9-57
+activity#com.example.ddyfapp.MainActivity
+ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] D:\data\flutter\ddyf_app\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] D:\data\flutter\ddyf_app\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:multi_image_picker] D:\data\flutter\ddyf_app\build\multi_image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:multi_image_picker] D:\data\flutter\ddyf_app\build\multi_image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\adadc95cfc29119c0cca61f35a27b937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\adadc95cfc29119c0cca61f35a27b937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\75b0caf8c4c805990758b423c4c37b7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\75b0caf8c4c805990758b423c4c37b7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\128209398226ad433320862ea6fc1969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\128209398226ad433320862ea6fc1969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3f02ea62b69afc6184219ea109fe7483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3f02ea62b69afc6184219ea109fe7483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49738d795d39cafd3817cbfe3696cae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49738d795d39cafd3817cbfe3696cae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\60ebd1d1aaf6134ebab6b5676ca44ed3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\60ebd1d1aaf6134ebab6b5676ca44ed3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6e444800afac413b898b78f003b91d2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6e444800afac413b898b78f003b91d2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\19f501153ff77cb62ea9355c69cc5937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\19f501153ff77cb62ea9355c69cc5937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72602791169fb1dbc12d84c5ae331393\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72602791169fb1dbc12d84c5ae331393\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\86a56071b5bba717de70609213b0b162\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\86a56071b5bba717de70609213b0b162\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ea8d7fa134eef1e4ac87aad4d3cc4d71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ea8d7fa134eef1e4ac87aad4d3cc4d71\AndroidManifest.xml:20:5-44
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\98bb628d9c9a6329c84e6241026318ae\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\98bb628d9c9a6329c84e6241026318ae\AndroidManifest.xml:3:5-72
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f0c169667a85d6f7e4a2d385dee62f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f0c169667a85d6f7e4a2d385dee62f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\456c925abe300bab5022d5ef98fe7272\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\456c925abe300bab5022d5ef98fe7272\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\797d31f92996c8c91709bea90391c25d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\797d31f92996c8c91709bea90391c25d\AndroidManifest.xml:20:5-44
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\cbb97a58f7b8ad79f5d3043cf3d88019\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\cbb97a58f7b8ad79f5d3043cf3d88019\AndroidManifest.xml:3:5-72
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c80e0d5b1da11338aa7e511bc35fbdf0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c80e0d5b1da11338aa7e511bc35fbdf0\AndroidManifest.xml:20:5-44
+INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\data\flutter\ddyf_app\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-80
+MERGED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:25:5-80
+MERGED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:5-81
+MERGED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:24:5-81
+MERGED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:22-62
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:14:13-74
+	android:exported
+		ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:13:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:17:13-19:75
+	android:resource
+		ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:19:17-72
+	android:name
+		ADDED from [:image_picker] D:\data\flutter\ddyf_app\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:18:17-67
+activity#com.zhihu.matisse.ui.MatisseActivity
+ADDED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:28:9-73
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:28:19-70
+activity#com.zhihu.matisse.internal.ui.AlbumPreviewActivity
+ADDED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:29:9-87
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:29:19-84
+activity#com.zhihu.matisse.internal.ui.SelectedPreviewActivity
+ADDED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:30:9-90
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\2723abd63d020018b578d3ee02d71e7d\AndroidManifest.xml:30:19-87
